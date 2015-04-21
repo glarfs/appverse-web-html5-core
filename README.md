@@ -1,5 +1,8 @@
 appverse-web-html5-core
 =======================
+
+[![Build Status](https://travis-ci.org/glarfs/appverse-web-html5-core.png?branch=develop)](https://travis-ci.org/glarfs/appverse-web-html5-core)
+
 Appverse Web Client Side  core module based on HTML5 and Java Script
 
 ## More Information
