@@ -19,6 +19,8 @@ before_script:
 
 script:
   - bower install
-  - grunt dist  
+  - grunt dist:make  
+  - grunt unit
+  - grunt midway
 
 after_success: true  
